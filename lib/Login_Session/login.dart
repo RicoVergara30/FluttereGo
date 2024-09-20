@@ -205,6 +205,7 @@ class _LoginScreenState extends State<LoginScreen> {
             child: const Text('Login'),
           ),
           ElevatedButton(onPressed: (){}, child: Text('Register'))
+          //
         ],
       ),
     );
